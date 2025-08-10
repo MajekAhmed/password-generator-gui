@@ -38,11 +38,10 @@
 ```bash
 python password_generator_gui.py
 
+```
 
 📞 للتواصل
 📧 Email: your@email.com
 💼 LinkedIn: linkedin.com/in/ahmed-ragab-mohmed
 💻 GitHub: github.com/MajekAhmed
-
-```
 
