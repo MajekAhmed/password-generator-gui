@@ -25,7 +25,7 @@
 
 ## 📷 لقطات من المشروع
 
-![App Preview](images/password-generator-gui.png)
+![App Preview](mages/password-generator-gui.png)
 
 ---
 
@@ -45,3 +45,4 @@ python password_generator_gui.py
 💻 GitHub: github.com/MajekAhmed
 
 ```
+
